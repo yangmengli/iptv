@@ -42,37 +42,6 @@ http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030347C3634387C317C
 #EXTINF:-1 tvg-id="1017" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 HD
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303031367C3130303335397C7C7C7C687474707C74735B2F63686E5D5B74735D305B2F74735D5B7375735D315B2F7375735DVSDNSOOONERCOM00
 
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1084/37/7c96090110880e88916b11e4a18cf9_180_135.jpg?1526894329" group-title="一起看", 周星星
-https://www.goodiptv.club/huya/11342412
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1056/e7/c61ec3ae80bbc93817186f3a41d47c_180_135.jpg?1449028717" group-title="一起看", 鯎爺
-https://www.goodiptv.club/huya/11352944
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1099/f6/53aafc173b24d0c336faac2e49b822_180_135.jpg?1445851392" group-title="一起看", 武林萌主唐小姐
-https://www.goodiptv.club/huya/11336726
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1041/7d/9207d1a3ef105d6a498e4543887427_180_135.jpg" group-title="一起看", 我是詹密
-https://www.goodiptv.club/huya/11342439
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1081/9e/65115e9fb3108fcb101361c8ab9dd7_180_135.jpg" group-title="一起看", 小木子先生丶
-https://www.goodiptv.club/huya/11342396
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1022/2b/1e4fa172491920d69d80976e02cd47_180_135.jpg" group-title="一起看", 瞬间爆炸
-https://www.goodiptv.club/huya/11352960
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1096/f0/fdd8c33af8aaba00ad6b19766ff0f2_180_135.jpg?1612406459" group-title="一起看", 堆堆港剧日常
-https://www.goodiptv.club/huya/23903123
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1092/46/1a81c724093e8cca545948a6605199_180_135.jpg?1447838576" group-title="一起看", 领带哥
-https://www.goodiptv.club/huya/11342430
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1098/42/53e820298f3c86a036422e195bc9eb_180_135.jpg?1446036001" group-title="一起看", 鱼塘塘主张年年
-https://www.goodiptv.club/huya/11342384
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1080/29/688e85c4509728831c578c7517e0f7_180_135.jpg?1447838636" group-title="一起看", 痞子帅叔叔
-https://www.goodiptv.club/huya/11342433
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1065/1e/1261519283866330b97e12fb4e7526_180_135.jpg?1449121445" group-title="一起看", 萌新司机
-https://www.goodiptv.club/huya/11352881
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1060/3b/03e68e81bcd4e1629e140c437cbfb9_180_135.jpg?1586861841" group-title="一起看", 虎牙八点档
-https://www.goodiptv.club/huya/880261
-#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1075/33/b6467219cbdbda1306edb9ebf29d2c_180_135.jpg?1543546825" group-title="一起看", 虎牙影院
-https://www.goodiptv.club/huya/11601968
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1079/1d/ca62f0140cef86cdec55afafe64411_180_135.jpg" group-title="一起看", 学妹爱学长
-https://www.goodiptv.club/huya/11352886
-#EXTINF:-1 tvg-logo="http://huyaimg.msstatic.com/avatar/1038/0d/8c64adc6c7b6dcc4183a457f885d23_180_135.jpg?1512023150" group-title="一起看", 宅妹
-https://www.goodiptv.club/huya/11352954
-
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://shanxiunicom.livestr.wasu.tv/5B63686E5D575330303030303030337C3532367C317C383030307CE99995E8A5BFE58DABE8A7867C687474707C74735B2F63686E5D5B74735D307C687474705B2F74735DVSDNSOOONERCOM00 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
